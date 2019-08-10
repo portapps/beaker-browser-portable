@@ -4,7 +4,7 @@
   <a href="https://portapps.io/app/beaker-browser-portable/#download"><img src="https://img.shields.io/github/release/portapps/beaker-browser-portable.svg?style=flat-square" alt="GitHub release"></a>
   <a href="https://portapps.io/app/beaker-browser-portable/#download"><img src="https://img.shields.io/github/downloads/portapps/beaker-browser-portable/total.svg?style=flat-square" alt="Total downloads"></a>
   <a href="https://travis-ci.com/portapps/beaker-browser-portable"><img src="https://img.shields.io/travis/com/portapps/beaker-browser-portable/master.svg?style=flat-square" alt="Build Status"></a>
-  <a href="https://github.com/portapps/portapps"><img src="https://img.shields.io/badge/portapps-1.24.1-479fdb.svg?style=flat-square" alt="Portapps version"></a>
+  <a href="https://github.com/portapps/portapps"><img src="https://img.shields.io/badge/portapps-1.25.0-479fdb.svg?style=flat-square" alt="Portapps version"></a>
   <a href="https://goreportcard.com/report/github.com/portapps/beaker-browser-portable"><img src="https://goreportcard.com/badge/github.com/portapps/beaker-browser-portable?style=flat-square" alt="Go Report"></a>
   <a href="https://www.codacy.com/app/portapps/beaker-browser-portable"><img src="https://img.shields.io/codacy/grade/ff93092d2c7e44c2bea369e143cbb8f5.svg?style=flat-square" alt="Code Quality"></a>
   <br /><a href="https://www.patreon.com/crazymax"><img src="https://img.shields.io/badge/donate-patreon-fb664e.svg?style=flat-square" alt="Support me on Patreon"></a>
