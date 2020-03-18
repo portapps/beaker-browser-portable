@@ -36,6 +36,9 @@ func init() {
 func main() {
 	utl.CreateFolder(app.DataPath)
 	app.Process = utl.PathJoin(app.AppPath, "Beaker Browser.exe")
+	app.Args = []string{
+		"--user-data-dir=" + app.DataPath,
+	}
 
 	// Cleanup on exit
 	if cfg.Cleanup {
