@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://portapps.io/app/beaker-browser-portable/#download"><img src="https://img.shields.io/github/release/portapps/beaker-browser-portable.svg?style=flat-square" alt="GitHub release"></a>
   <a href="https://portapps.io/app/beaker-browser-portable/#download"><img src="https://img.shields.io/github/downloads/portapps/beaker-browser-portable/total.svg?style=flat-square" alt="Total downloads"></a>
-  <a href="https://travis-ci.com/portapps/beaker-browser-portable"><img src="https://img.shields.io/travis/com/portapps/beaker-browser-portable/master.svg?style=flat-square" alt="Build Status"></a>
+  <a href="https://github.com/portapps/beaker-browser-portable/actions?workflow=build"><img src="https://img.shields.io/github/workflow/status/portapps/beaker-browser-portable/build?label=build&logo=github&style=flat-square" alt="Build Status"></a>
   <a href="https://goreportcard.com/report/github.com/portapps/beaker-browser-portable"><img src="https://goreportcard.com/badge/github.com/portapps/beaker-browser-portable?style=flat-square" alt="Go Report"></a>
   <a href="https://app.codacy.com/gh/portapps/beaker-browser-portable"><img src="https://img.shields.io/codacy/grade/ff93092d2c7e44c2bea369e143cbb8f5.svg?style=flat-square" alt="Code Quality"></a>
   <br /><a href="https://github.com/sponsors/crazy-max"><img src="https://img.shields.io/badge/sponsor-crazy--max-181717.svg?logo=github&style=flat-square" alt="Become a sponsor"></a>
