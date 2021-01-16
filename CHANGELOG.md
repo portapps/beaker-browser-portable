@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.1.0-4 (2021/01/16)
+
+* Beaker Browser 1.1.0
+* Portapps 3.1.0
+
 ## 0.8.10-3 (2020/03/18)
 
 * Beaker Browser 0.8.10
